@@ -20,10 +20,13 @@ For the project, the following datasets from the "Pump it Up: Data Mining the Wa
 The former consisted of 40 features that made up the set of information about the water points, while the latter consisted of the target variable. SWT Clean Water Foundation elected to feature engineer the ternary classification (functional, functional needs repair, non functional) into a binary classification (functional vs. needs repair) to simplify the predictive modeling process given limited NGO resources. The EDA process then reduced the features down to construction year, water source, geographic region, and management.
 
 EDA Exhibit 1: Water points sourced from lakes had the highest proportion of "Needs Repair" Wells
+![image](https://github.com/schoe4208/Tanzanian_NGO_Water_Wells_Predictor/blob/main/Pictures/EDA%20Exhibit%201%20-%20Water%20Point%20Sources.png)
 
 EDA Exhibit 2: Water points from the Lindi and Mtwara regions had the highest proportion of "Needs Repair" Wells
+![image](https://github.com/schoe4208/Tanzanian_NGO_Water_Wells_Predictor/blob/main/Pictures/EDA%20Exhibit%202%20-%20Water%20Point%20Regions.png)
 
 EDA Exhibit 3: Water points managed by schools had the highest proportion of "Needs Repair" Wells
+![image](https://github.com/schoe4208/Tanzanian_NGO_Water_Wells_Predictor/blob/main/Pictures/EDA%20Exhibit%203%20-%20Water%20Point%20Management.png)
 
 ## Iterative Model Building
 SWT Clean Water Foundation constructed the following models:
