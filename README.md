@@ -45,7 +45,7 @@ The improved regularization model was selected as our final model following SWT 
 
 ## For More Information
 - Detailed Analysis: [Jupyter Notebook]()
-- Presentation Deck: [Presentation Deck]()
+- Presentation Deck: [Presentation Deck](https://github.com/schoe4208/Tanzanian_NGO_Water_Wells_Predictor/blob/main/Presentation.pdf)
 
 ## Contributors:
 - [Sam Choe](https://github.com/schoe4208)
@@ -61,7 +61,8 @@ The improved regularization model was selected as our final model following SWT 
     |— EDA Exhibit 1 - Water Point Sources.png               <- Screenshot
     |— EDA Exhibit 2 - Water Point Regions.png               <- Screenshot
     |— EDA Exhibit 3 - Water Point Management.png            <- Screenshot
+|— .gitignore                                                <- List of files to exclude 
+|_ Presentation.pdf                                          <- PDF version of the project presentation slides
 |— README.md                                                 <- Overview of the Project
-|— .gitignore                                                <- List of files to exclude
 |— water_well_predictor.ipynb                                <- Detailed analysis in Jupyter Notebook
-|_ presentation.pdf                                          <- PDF version of the project presentation slides
+
