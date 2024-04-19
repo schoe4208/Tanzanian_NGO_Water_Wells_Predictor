@@ -44,7 +44,7 @@ The improved regularization model was selected as our final model following SWT 
 3. Management type is not as big of a priority compared with water source and geographic region. If this feature needs to be considered, look at water points managed by schools.
 
 ## For More Information
-- Detailed Analysis: [Jupyter Notebook]()
+- Detailed Analysis: [Jupyter Notebook](https://github.com/schoe4208/Tanzanian_NGO_Water_Wells_Predictor/blob/main/water_well_predictor.ipynb)
 - Presentation Deck: [Presentation Deck](https://github.com/schoe4208/Tanzanian_NGO_Water_Wells_Predictor/blob/main/Presentation.pdf)
 
 ## Contributors:
